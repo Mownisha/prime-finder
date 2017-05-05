@@ -1,0 +1,23 @@
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
+
+.result {
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+  font-family: cursive;
+}
+
+.jumbotron {
+  color: violet;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+body {
+  background-color: pink;
+}
